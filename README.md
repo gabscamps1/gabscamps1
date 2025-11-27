@@ -29,7 +29,7 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/gabscamps1/gabscamps1/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
