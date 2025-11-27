@@ -28,6 +28,9 @@
   <a href="https://www.linkedin.com/in/gabriel-de-campos-silva-b641b9263/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
+
+<img src="https://raw.githubusercontent.com/gabscamps1/gabscamps1/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <br clear="both">
