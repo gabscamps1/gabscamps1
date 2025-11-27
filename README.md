@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=125&section=header" />
 
 ###
 
