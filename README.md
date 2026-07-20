@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=125&section=header" />
 # Sobre:
 Estudante de Jogos Digitais, com formação técnica em Informática para Internet, interessado na oportunidade de<br>desenvolvimento profissional em estágio na área de tecnologia para ampliar conhecimentos sobre desenvolvimento de<br>softwares e jogos. 
 
